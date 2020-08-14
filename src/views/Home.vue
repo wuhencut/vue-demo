@@ -2,6 +2,7 @@
   <div class="page">
     <router-link to="/drag">drag</router-link>
     <router-link to="/dragTable">dragTable</router-link>
+    <router-link to="/dragElTable">饿了么table拖拽</router-link>
   </div>
 </template>
 <script>

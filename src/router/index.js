@@ -18,6 +18,11 @@ const routes = [
     path: "/dragTable",
     name: "dragTable",
     component: () => import("../views/dragTable.vue")
+  },
+  {
+    path: "/dragElTable",
+    name: "dragElTable",
+    component: () => import("../views/dragElTable.vue")
   }
 ];
 
