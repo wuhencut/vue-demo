@@ -3,6 +3,7 @@
     <router-link to="/drag">drag</router-link>
     <router-link to="/dragTable">dragTable</router-link>
     <router-link to="/dragElTable">饿了么table拖拽</router-link>
+    <router-link to="/authTree">tree</router-link>
   </div>
 </template>
 <script>

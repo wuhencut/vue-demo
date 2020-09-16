@@ -23,6 +23,11 @@ const routes = [
     path: "/dragElTable",
     name: "dragElTable",
     component: () => import("../views/dragElTable.vue")
+  },
+  {
+    path: "/authTree",
+    name: "authTree",
+    component: () => import("../views/AuthTree.vue")
   }
 ];
 
