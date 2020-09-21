@@ -1,0 +1,367 @@
+{
+  "currMaxId": "id58",
+  "authManagement": {
+    "value": false,
+    "label": "认证管理",
+    "children": {
+      "id1": {
+        "value": false,
+        "label": "企业认证",
+        "path": "companyAuth"
+      },
+      "id2": {
+        "value": false,
+        "label": "品牌授权",
+        "path": "brandAuth"
+      }
+    }
+  },
+  "userManagement": {
+    "value": false,
+    "label": "账户管理",
+    "children": {
+      "id3": {
+        "value": false,
+        "label": "博主申请",
+        "path": "cpApply"
+      },
+      "id4": {
+        "value": false,
+        "label": "博主列表",
+        "path": "cpList"
+      },
+      "id49": {
+        "value": false,
+        "label": "用户列表",
+        "path": "registeCpList"
+      },
+      "id5": {
+        "value": false,
+        "label": "商户管理",
+        "path": "sponsorManage"
+      },
+      "id51": {
+        "value": false,
+        "label": "博主处罚",
+        "path": "cpPunish"
+      },
+      "id52": {
+        "value": false,
+        "label": "关联账号分析",
+        "path": "cpContact"
+      }
+    }
+  },
+  "businessManagement": {
+    "value": false,
+    "label": "业务管理",
+    "children": {
+      "id6": {
+        "value": false,
+        "label": "品牌管理",
+        "path": "brandList"
+      },
+      "id8": {
+        "value": false,
+        "label": "用户标签",
+        "path": "tagList"
+      },
+      "id10": {
+        "value": false,
+        "label": "押金管理",
+        "path": "depositList"
+      },
+      "id11": {
+        "value": false,
+        "label": "初审管理",
+        "path": "preAudit"
+      },
+      "id12":{
+        "value":false,
+        "label":"数据管理",
+        "path": "dataList"
+      },
+      "id13": {
+        "value": false,
+        "label": "授权管理",
+        "path": "erpList"
+      }
+    }
+  },
+  "mallManagement": {
+    "value": false,
+    "label": "商城管理",
+    "children": {
+      "id14": {
+        "value": false,
+        "label": "商品管理",
+        "path": "goodsManage"
+      },
+      "id15": {
+        "value": false,
+        "label": "热门单品",
+        "path": "hotGoods"
+      },
+      "id16": {
+        "value": false,
+        "label": "商品类目",
+        "path": "cateList"
+      }
+    }
+  },
+  "communityManagement":{
+   "value":false,
+   "label":"社群管理",
+   "children":{
+     "id53":{
+       "value":false,
+       "label":"BA管理",
+       "path":"baManage"
+     },
+     "id54":{
+      "value":false,
+      "label":"分享记录管理",
+      "path":"shareList"
+    },
+    "id55":{
+      "value":false,
+      "label":"任务分统计",
+      "path":"scoreList"
+    }
+   }
+  },
+  "activityManagement": {
+    "value": false,
+    "label": "活动管理",
+    "children": {
+      "id17": {
+        "value": false,
+        "label": "活动列表",
+        "path": "activitySchedu"
+      },
+      "id18": {
+        "value": false,
+        "label": "活动评分",
+        "path": "activityList"
+      },
+      "id51":{
+        "value": false,
+        "label": "置换活动次数",
+        "path": "addReplaceNum"
+      },
+      "id57":{
+        "value":false,
+        "label":"活动专场",
+        "path":"specialEvent"
+      }
+    }
+  },
+  "afterSaleManagement": {
+    "value": false,
+    "label": "售后管理",
+    "children": {
+      "id19": {
+        "value": false,
+        "label": "客户问题",
+        "path": "customerIssues"
+      },
+      "id20": {
+        "value": false,
+        "label": "退货退款",
+        "path": "refundIssues"
+      },
+      "id21": {
+        "value": false,
+        "label": "测评修改",
+        "path": "reviewIssues"
+      },
+      "id22": {
+        "value": false,
+        "label": "保障罚款",
+        "path": "guaranteeFines"
+      }
+    }
+  },
+  "orderManagement": {
+    "value": false,
+    "label": "订单管理",
+    "children": {
+      "id23": {
+        "value": false,
+        "label": "试用探店",
+        "path": "orderList"
+      },
+      "id24": {
+        "value": false,
+        "label": "商品购买",
+        "path": "goodsList"
+      }
+    }
+  },
+  "settleManagement": {
+    "value": false,
+    "label": "结算管理",
+    "children": {
+      "id25": {
+        "value": false,
+        "label": "赏金发放",
+        "path": "activityReward"
+      },
+      "id26": {
+        "value": false,
+        "label": "返利发放",
+        "path": "feedbackReward"
+      },
+      "id27": {
+        "value": false,
+        "label": "悬赏审核",
+        "path": "rewardSettle"
+      }
+    }
+  },
+  "expressManagement": {
+    "value": false,
+    "label": "物流管理",
+    "children": {
+      "id28": {
+        "value": false,
+        "label": "粉丝物流",
+        "path": "expressFansList"
+      }
+    }
+  },
+  "configManagement": {
+    "value": false,
+    "label": "配置管理",
+    "children": {
+      "id56": {
+        "value": false,
+        "label": "顶部导航",
+        "path": "appTopNav"
+      },
+      "id58":{
+        "value":false,
+        "label":"私享聚合配置",
+        "path":"campaignAggregation"
+      },
+      "id29":{
+        "value":false,
+        "label":"私享轮播",
+        "path": "privateBanner"
+      },
+      "id30": {
+        "value": false,
+        "label": "星选轮播",
+        "path": "starBanner"
+      },
+      "id31":{
+        "value":false,
+        "label":"App开屏",
+        "path": "appOpen"
+      },
+      "id32": {
+        "value": false,
+        "label": "App推送",
+        "path": "appNotice"
+      },
+      "id33": {
+        "value": false,
+        "label": "H5编辑",
+        "path": "webEditor"
+      },
+      "id34": {
+        "value": false,
+        "label": "商家消息",
+        "path": "notice"
+      },
+      "id35": {
+        "value": false,
+        "label": "配置管理",
+        "path": "configList"
+      },
+      "id36": {
+        "value": false,
+        "label": "配置说明",
+        "path": "configExplain"
+      }  
+    }
+  },
+  "toolManagement": {
+    "value": false,
+    "label": "工具管理",
+    "children": {
+      "id37": {
+        "value": false,
+        "label": "重置操作",
+        "path": "adminReset"
+      },
+      "id38": {
+        "value": false,
+        "label": "追杀博主",
+        "path": "cpKill"
+      },
+      "id39": {
+        "value": false,
+        "label": "加减信用",
+        "path": "creditModify"
+      }
+    }
+  },
+  "financialManagement": {
+    "value": false,
+    "label": "财务管理",
+    "children": {
+      "id40": {
+        "value": false,
+        "label": "商户充值",
+        "path": "rechargeOrder"
+      },
+      "id41": {
+        "value": false,
+        "label": "商户充值退款",
+        "path": "spRechargeWithdraw"
+      },
+      "id42": {
+        "value": false,
+        "label": "商户收入提现",
+        "path": "spIncomeWithdraw"
+      },
+      "id43": {
+        "value": false,
+        "label": "博主提现",
+        "path": "bloggerWithdraw"
+      },
+      "id44": {
+        "value": false,
+        "label": "用户发薪",
+        "path": "payUser"
+      },
+      "id45": {
+        "value": false,
+        "label": "发放映币",
+        "path": "provideIngCoin"
+      },
+      "id46": {
+        "value": false,
+        "label": "退税审核",
+        "path": "taxRefund"
+      }
+    }
+  },
+  "accountManagement": {
+    "value": false,
+    "label": "账号管理",
+    "children": {
+      "id47": {
+        "value": false,
+        "label": "人员管理",
+        "path": "adminList"
+      },
+      "id48": {
+        "value": false,
+        "label": "角色管理",
+        "path": "roleList"
+      }
+    }
+  }
+}
