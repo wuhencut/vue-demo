@@ -4,6 +4,7 @@
     <router-link to="/dragTable">dragTable</router-link>
     <router-link to="/dragElTable">饿了么table拖拽</router-link>
     <router-link to="/authTree">tree</router-link>
+    <router-link to="/dropMenu">dropMenu</router-link>
   </div>
 </template>
 <script>

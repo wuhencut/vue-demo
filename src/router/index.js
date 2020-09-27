@@ -28,6 +28,11 @@ const routes = [
     path: "/authTree",
     name: "authTree",
     component: () => import("../views/AuthTree.vue")
+  },
+  {
+    path: "/dropMenu",
+    name: "dropMenu",
+    component: () => import("../views/DropMenu.vue")
   }
 ];
 
